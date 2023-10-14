@@ -27,7 +27,7 @@ First, a GCS Bucket is created, then the [dataset](https://github.com/shubhammir
 <img src="cloud_bucket.png">
 
 
-### 2. Building Dimensional Model (Star Schema)
+### 2. Building Dimensional Model
 
 After setting up the Data source, a Star Schema Dimensional Model is built in BigQuery Console.
 
